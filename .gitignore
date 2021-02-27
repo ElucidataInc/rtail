@@ -1,0 +1,4 @@
+app/css/*
+app/*.js
+dist
+node_modules
