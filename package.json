@@ -60,7 +60,7 @@
     "highlight.js": "isagalaev/highlight.js",
     "istanbul": "^0.3.17",
     "istanbul-harmony": "^0.3.16",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "localforage": "^1.2.2",
     "mocha": "^2.2.5",
     "moment": "^2.10.3",
